@@ -1,0 +1,69 @@
+.about-photo{
+    border-radius: 50%;
+    width:600px;
+    height: 300px;
+    margin-left: 100px;
+}
+#about{
+    margin-top:5px;
+    margin-bottom: 5px;
+}
+.contact-heading{
+    text-align: center;
+    padding: 40px;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.about-content {
+    padding-top:20px;
+    padding-bottom: 20px;
+}
+.about-video {
+    padding-top:20px;
+    padding-bottom: 20px;
+}
+.about-content p {
+    padding-top:20px;
+    padding-bottom: 20px;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+#heading{
+    margin-top:5px;
+    margin-bottom: 5px;
+}
+iframe {
+    width:920px;
+    height:515px;
+}
+.pd-60{
+    padding-top:60px;
+    padding-bottom: 20px;
+}
+footer p{
+    text-align: center;
+    font-size: 24px;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.imageClass{
+    border-radius: 50%;
+width: 1000px;
+height: 500px;
+}
+.anchor-tag{
+    font-size: 24px;
+}
+.jumbotron {
+    background-image: url(123.jpeg);
+    background-position: center;
+    height: 50%; 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+}
+#calculator{
+    padding:10px;
+
+}
